@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, AWS, Matlab, Physics Enforced ML, Image processing, Signal Processing, UAV Design and Electronics**
 
-- 📫 How to reach me **Mostafa El Agab**
+- 📫 How to reach me **Mostafa.elagab@gmail.com**
 
 - ⚡ Fun fact **I love couscous!**
 
