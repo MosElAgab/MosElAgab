@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **Mostafa.elagab@gmail.com**
 
-- ⚡ Fun fact **I love couscous!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
