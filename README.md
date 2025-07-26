@@ -50,6 +50,18 @@ An ETL pipeline that extracts data from AWS RDS, APIs, PDFs, S3, and JSON files,
 
 ### 🧰 Skills & Technologies
 
+### 🧰 Skills & Technologies
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-API-black?logo=flask)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-blue?logo=githubactions)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform)
+![Airflow](https://img.shields.io/badge/Orchestration-Airflow-017CEE?logo=apacheairflow)
+![Kafka](https://img.shields.io/badge/Streaming-Kafka-231F20?logo=apachekafka)
+![AWS](https://img.shields.io/badge/AWS-EC2-orange?logo=amazonaws)
+
 **Languages:** Python, SQL, Bash  
 **Backend & APIs:** Flask, Flask-Smorest, JWT, REST APIs  
 **Data Engineering:** Apache Kafka, Spark, Airflow (MWAA), AWS Kinesis, Redshift  
