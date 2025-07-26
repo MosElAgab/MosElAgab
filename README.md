@@ -7,10 +7,17 @@
 ### 💼 Projects
 
 #### 🧪 [Simple Flask REST API](https://github.com/MosElAgab/simple-flask-smorest-rest-api)
-A fully dockerized Flask backend with JWT authentication, PostgreSQL, CI/CD via GitHub Actions, and deployment on AWS EC2.  
-- **Tech Stack:** Flask-Smorest, PostgreSQL, Docker, GitHub Actions, Terraform  
-- **Highlights:** JWT-based auth, environment-based config, Makefile automation, live deployment
 
+A production-style RESTful API built with Flask, featuring JWT authentication, PostgreSQL, Docker, GitHub Actions CI/CD, and deployment on AWS EC2 via Terraform. Developed using test-driven development (TDD) with 96% test coverage and modular architecture using Blueprints and Marshmallow schemas.
+
+* **Tech Stack:** Flask, Flask-Smorest, PostgreSQL, SQLAlchemy, JWT, Docker, GitHub Actions, Terraform, AWS EC2, Pytest
+* **Highlights:**
+
+  * CI/CD pipeline with GitHub Actions for automated testing & deployment
+  * Infrastructure as Code with Terraform
+  * Dockerized app with persistent PostgreSQL volumes
+  * Interactive Swagger UI, Makefile automation, full unit & integration testing
+  * Deployed on EC2 with SSH key-based CD workflow
 
 #### 📊 [Pinterest Data Pipeline Project](https://github.com/MosElAgab/pinterest-data-pipeline636.git)
 
