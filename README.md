@@ -17,7 +17,6 @@ A production-style RESTful API built with Flask, featuring JWT authentication, P
   * Dockerized app with persistent PostgreSQL volumes
   * Interactive Swagger UI, Makefile automation, full unit & integration testing
   * Deployed on EC2 with SSH-based CD workflow
----
 
 #### 📊 [Pinterest Data Pipeline Project](https://github.com/MosElAgab/pinterest-data-pipeline636.git)
 
@@ -30,8 +29,6 @@ A cloud-based, end-to-end data pipeline that emulates Pinterest-style data gener
   * API integration for Kafka publishing
   * Workflow orchestration with Airflow (MWAA)
   * IAM-secured MSK cluster and EC2 setup
-
----
 
 #### 📦 [Multinational Retail Data Centralisation](https://github.com/MosElAgab/multinational-retail-data-centralisation145.git)
 An ETL pipeline that extracts data from AWS RDS, APIs, PDFs, S3, and JSON files, cleans it with Pandas, and loads it into PostgreSQL using a star schema. Built with test-driven development and Makefile automation.  
