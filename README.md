@@ -11,10 +11,20 @@ A fully dockerized Flask backend with JWT authentication, PostgreSQL, CI/CD via 
 - **Tech Stack:** Flask-Smorest, PostgreSQL, Docker, GitHub Actions, Terraform  
 - **Highlights:** JWT-based auth, environment-based config, Makefile automation, live deployment
 
-#### 📊 [Pinterest Data Pipeline Project](https://github.com/MosElAgab/pinterest-data-pipeline636.git)
-An end-to-end pipeline that ingests Pinterest data, processes it with Spark, and loads it into AWS Redshift via S3 for analysis.  
-- **Tech Stack:** Apache Kafka, Spark, Airflow, AWS S3, Redshift, Databricks  
-- **Highlights:** Scalable ETL orchestration, streaming + batch components, cloud-based storage and querying
+
+### 📊 [Pinterest Data Pipeline Project](https://github.com/MosElAgab/pinterest-data-pipeline636.git)
+
+A cloud-based, end-to-end data pipeline that emulates Pinterest-style data generation and processing. The pipeline ingests data from AWS RDS, streams it via Apache Kafka and AWS Kinesis, stores it in S3, and performs analysis in Databricks. Workflow orchestration is handled using Apache Airflow (MWAA), with full deployment on AWS.
+
+* **Tech Stack:** AWS (EC2, S3, IAM, MSK, Kinesis, MWAA), Apache Kafka, Databricks, Airflow, API Gateway, Python, SQLAlchemy
+* **Highlights:**
+
+  * Real-time data streaming with Kafka and Kinesis
+  * Batch analysis using Databricks + Spark
+  * API integration for Kafka publishing
+  * Workflow orchestration with Airflow (MWAA)
+  * IAM-secured MSK cluster setup and EC2 configuration
+
 
 #### 📦 [Multinational Retail Data Centralisation](https://github.com/MosElAgab/multinational-retail-data-centralisation145.git)
 An ETL pipeline that extracts data from AWS RDS, APIs, PDFs, S3, and JSON files, cleans it with Pandas, and loads it into PostgreSQL using a star schema. Built with test-driven development and Makefile automation.  
