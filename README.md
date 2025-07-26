@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
+
+<h3 align="center">Python Developer with hands-on experience in backend development and data engineering. I hold a Bachelor's and a Master's degree in Aerospace Engineering from the University of Manchester.</h3>
+
+
 <h3 align="center">A passionate Data Engineer with Aerospace Engineering background</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moselagab&label=Profile%20views&color=0e75b6&style=flat" alt="moselagab" /> </p>
