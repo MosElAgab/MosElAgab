@@ -8,35 +8,35 @@
 
 #### 🧪 [Simple Flask REST API](https://github.com/MosElAgab/simple-flask-smorest-rest-api)
 
-A production-style RESTful API built with Flask, featuring JWT authentication, PostgreSQL, Docker, GitHub Actions CI/CD, and deployment on AWS EC2 via Terraform. Developed using test-driven development (TDD) with 96% test coverage and modular architecture using Blueprints and Marshmallow schemas.
+A production-style RESTful API built with Flask, featuring JWT authentication, PostgreSQL, Docker, CI/CD with GitHub Actions, and deployment on AWS EC2 via Terraform. Developed using test-driven development (TDD) with 96% test coverage and modular architecture using Blueprints and Marshmallow schemas.
 
 * **Tech Stack:** Flask, Flask-Smorest, PostgreSQL, SQLAlchemy, JWT, Docker, GitHub Actions, Terraform, AWS EC2, Pytest
 * **Highlights:**
-
-  * CI/CD pipeline with GitHub Actions for automated testing & deployment
+  * CI/CD pipeline with GitHub Actions for automated testing and deployment
   * Infrastructure as Code with Terraform
   * Dockerized app with persistent PostgreSQL volumes
   * Interactive Swagger UI, Makefile automation, full unit & integration testing
-  * Deployed on EC2 with SSH key-based CD workflow
+  * Deployed on EC2 with SSH-based CD workflow
+---
 
 #### 📊 [Pinterest Data Pipeline Project](https://github.com/MosElAgab/pinterest-data-pipeline636.git)
 
-A cloud-based, end-to-end data pipeline that emulates Pinterest-style data generation and processing. The pipeline ingests data from AWS RDS, streams it via Apache Kafka and AWS Kinesis, stores it in S3, and performs analysis in Databricks. Workflow orchestration is handled using Apache Airflow (MWAA), with full deployment on AWS.
+A cloud-based, end-to-end data pipeline that emulates Pinterest-style data generation and processing. The pipeline ingests data from AWS RDS, streams it via Apache Kafka and AWS Kinesis, stores it in S3, and performs analysis in Databricks. Workflow orchestration is managed using Apache Airflow (MWAA), with full deployment on AWS.
 
 * **Tech Stack:** AWS (EC2, S3, IAM, MSK, Kinesis, MWAA), Apache Kafka, Databricks, Airflow, API Gateway, Python, SQLAlchemy
 * **Highlights:**
-
   * Real-time data streaming with Kafka and Kinesis
-  * Batch analysis using Databricks + Spark
+  * Batch analysis using Databricks and Spark
   * API integration for Kafka publishing
   * Workflow orchestration with Airflow (MWAA)
-  * IAM-secured MSK cluster setup and EC2 configuration
+  * IAM-secured MSK cluster and EC2 setup
 
+---
 
 #### 📦 [Multinational Retail Data Centralisation](https://github.com/MosElAgab/multinational-retail-data-centralisation145.git)
 An ETL pipeline that extracts data from AWS RDS, APIs, PDFs, S3, and JSON files, cleans it with Pandas, and loads it into PostgreSQL using a star schema. Built with test-driven development and Makefile automation.  
-- **Tech Stack:** Python, Pandas, PostgreSQL, AWS RDS/S3, tabula-py, boto3, Pytest, Makefile  
-- **Highlights:** Modular ETL with TDD, schema building via SQL, automated reporting queries, PEP8 + Flake8 compliance
+* **Tech Stack:** Python, Pandas, PostgreSQL, AWS RDS/S3, tabula-py, boto3, Pytest, Makefile  
+* **Highlights:** Modular ETL with TDD, schema building via SQL, automated reporting queries, PEP8 and Flake8 compliance
 
 ---
 
