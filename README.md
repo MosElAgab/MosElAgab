@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 
-<h3 align="center">Python Developer with hands-on experience in backend development and data engineering. I hold a Bachelor's and a Master's degree in Aerospace Engineering from the University of Manchester.</h3>
+<h3 align="center">Python Developer with hands-on experience in backend development and data engineering. I hold both a Bachelor's and a Master's degree in Aerospace Engineering from the University of Manchester.</h3>
 
 ---
 
 ### 💼 Projects
+
 #### 🧪 [Simple Flask REST API](https://github.com/MosElAgab/simple-flask-smorest-rest-api)
-A fully dockerized Flask backend with JWT authentication, PostgreSQL, CI/CD (GitHub Actions), and EC2 deployment.
-- JWT Auth | Flask-Smorest | PostgreSQL | Docker | GitHub Actions | Terraform
+A fully dockerized Flask backend with JWT authentication, PostgreSQL, CI/CD via GitHub Actions, and deployment on AWS EC2.  
+- **Tech Stack:** Flask-Smorest, PostgreSQL, Docker, GitHub Actions, Terraform  
+- **Highlights:** JWT-based auth, environment-based config, Makefile automation, live deployment
 
 #### 📊 [Pinterest Data Pipeline Project](https://github.com/MosElAgab/pinterest-data-pipeline636.git)
-An end-to-end data pipeline that extracts Pinterest data, processes it with Spark, and loads into AWS Redshift via S3.
-- Kafka | Spark | Airflow | S3 | Redshift | Databricks
+An end-to-end pipeline that ingests Pinterest data, processes it with Spark, and loads it into AWS Redshift via S3 for analysis.  
+- **Tech Stack:** Apache Kafka, Spark, Airflow, AWS S3, Redshift, Databricks  
+- **Highlights:** Scalable ETL orchestration, streaming + batch components, cloud-based storage and querying
 
-### 📦 [Multinational Retail Data Centralisation](https://github.com/MosElAgab/multinational-retail-data-centralisation145.git)
-
-An ETL pipeline project that extracts data from AWS RDS, APIs, PDFs, S3, and JSON files, then cleans and loads it into a PostgreSQL database using a star schema. Built with TDD, Makefile automation, and SQL-based business insights.
-
-* **Tech Stack:** Python, Pandas, PostgreSQL, AWS RDS/S3, tabula-py, boto3, Pytest, Makefile
-* **Highlights:** DataCleaning class with TDD, automated ETL & schema build, SQL query automation, PEP 8 compliance with Flake8
+#### 📦 [Multinational Retail Data Centralisation](https://github.com/MosElAgab/multinational-retail-data-centralisation145.git)
+An ETL pipeline that extracts data from AWS RDS, APIs, PDFs, S3, and JSON files, cleans it with Pandas, and loads it into PostgreSQL using a star schema. Built with test-driven development and Makefile automation.  
+- **Tech Stack:** Python, Pandas, PostgreSQL, AWS RDS/S3, tabula-py, boto3, Pytest, Makefile  
+- **Highlights:** Modular ETL with TDD, schema building via SQL, automated reporting queries, PEP8 + Flake8 compliance
 
 ---
 
