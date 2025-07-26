@@ -76,11 +76,9 @@ An ETL pipeline that extracts data from AWS RDS, APIs, PDFs, S3, and JSON files,
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" style="background-color:white; border-radius:6px; padding:2px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/>
   </a>
-  
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
@@ -90,11 +88,9 @@ An ETL pipeline that extracts data from AWS RDS, APIs, PDFs, S3, and JSON files,
   <a href="https://kafka.apache.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" style="background-color:white; border-radius:6px; padding:2px;"/>
   </a>
-  
   <a href="https://airflow.apache.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Airflow" width="40" height="40" style="background-color:white; border-radius:6px; padding:2px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" width="40" height="40"/>
   </a>
-  
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
