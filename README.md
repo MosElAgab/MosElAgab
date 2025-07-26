@@ -50,8 +50,6 @@ An ETL pipeline that extracts data from AWS RDS, APIs, PDFs, S3, and JSON files,
 
 ### 🧰 Skills & Technologies
 
-### 🧰 Skills & Technologies
-
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-API-black?logo=flask)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue?logo=postgresql)
