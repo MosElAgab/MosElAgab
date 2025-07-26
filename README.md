@@ -71,7 +71,8 @@ An ETL pipeline that extracts data from AWS RDS, APIs, PDFs, S3, and JSON files,
 
 ---
 
-<h3 align="left">Languages and Tools</h3>
+### 🛠️ Languages & Tools
+
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
