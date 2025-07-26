@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mostafa el agab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa el agab" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/moselagab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa el agab" height="30" width="40" /></a>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 #### 🧪 [Simple Flask REST API](https://github.com/MosElAgab/simple-flask-smorest-rest-api)
 
-A production-style RESTful API built with Flask, featuring JWT authentication, PostgreSQL, Docker, CI/CD with GitHub Actions, and deployment on AWS EC2 via Terraform. Developed using test-driven development (TDD) with 96% test coverage and modular architecture using Blueprints and Marshmallow schemas.
+A production-style RESTful API built with Flask, featuring JWT authentication, PostgreSQL, Docker, CI/CD with GitHub Actions, and deployment on AWS EC2 via Terraform. Developed using test-driven development (TDD) with 96% test coverage and a modular architecture using Blueprints and Marshmallow schemas.
 
 * **Tech Stack:** Flask, Flask-Smorest, PostgreSQL, SQLAlchemy, JWT, Docker, GitHub Actions, Terraform, AWS EC2, Pytest
 * **Highlights:**
